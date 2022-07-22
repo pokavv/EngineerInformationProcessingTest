@@ -1,3 +1,5 @@
+// 2021년 3회 정보처리기사 실기 7번
+
 #include <stdio.h>
 struct jsu // 구조체 정의
 {

@@ -1,3 +1,5 @@
+// 2021년 3회 정보처리기사 실기 1번
+
 class Connection {
     private static Connection _inst = null; // 객체변수 _inst 선언
     private int count = 0; // 정수형 변수 count 선언
